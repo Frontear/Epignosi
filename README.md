@@ -1,5 +1,5 @@
 # Epignosi
-A simple java analyzer and decompiler. Currently only supports Java 13
+A simple java analyser and decompiler. Currently only supports Java 13
 
 ## License
 
