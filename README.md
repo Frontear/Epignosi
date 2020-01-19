@@ -1,5 +1,5 @@
 # Epignosi
-A simple java analyser and decompiler. Currently only supports Java 13
+A simple Java decompiler, designed with readability in mind. It is designed to decompile **only** Java 8 classes.
 
 ## License
 
